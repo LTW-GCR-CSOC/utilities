@@ -18,9 +18,10 @@ Install into VMWare Fusion VM
 
 Run
 
+'''
 sudo apt-get update
 sudo apt-get upgrade
-
+'''
 Create snapshot of configured VM to use as baseline
 
 Do testing from a restored main snapshot
