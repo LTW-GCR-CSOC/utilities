@@ -2,6 +2,10 @@
 
 Various utility code snippets and reference materials for LTW GCR developers.
 
+# Useful References
+
+Markdown cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 # Dev Environment - Emulated
 
 # Raspberry Pi
@@ -32,4 +36,4 @@ Do testing from a restored main snapshot
 
 Setup a Raspberry Pi 3 using this software and associated instructions https://ubuntu-mate.org/raspberry-pi/
 
-Run install script with parameters to specify ###development### or ###production### modes (development will install tools used to support debugging and testing, production is only the software required to run the services)
+Run install script with parameters to specify **development** or **production** modes (development will install tools used to support debugging and testing, production is only the software required to run the services)
