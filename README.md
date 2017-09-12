@@ -28,9 +28,9 @@ Run
 sudo apt-get update
 sudo apt-get upgrade
 ```
-Create snapshot of configured VM to use as baseline
+Create of snapshot of configured VM using the VMWare Fusion "Take Snapshot" function to use as a baseline for testing - always test on a copy of that master snapshot
 
-Do testing from a restored main snapshot
+Do testing from a restored master snapshot
 
 # Target Environment
 
