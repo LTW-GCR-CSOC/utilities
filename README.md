@@ -8,11 +8,11 @@ Markdown cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Chea
 
 # Dev Environment - Emulated
 
-# Raspberry Pi
+## Raspberry Pi
 
 Setup a Raspberry Pi emulated testing environment:  http://www.makeuseof.com/tag/emulate-raspberry-pi-pc/
 
-# Ubuntu Mate 
+## Ubuntu Mate 
 
 Setup a VMWare Ubuntu Mate on Mac testing environment:
 
@@ -32,7 +32,7 @@ Do testing from a restored main snapshot
 
 # Target Environment
 
-# Raspberry Pi
+## Raspberry Pi
 
 Setup a Raspberry Pi 3 using this software and associated instructions https://ubuntu-mate.org/raspberry-pi/
 
