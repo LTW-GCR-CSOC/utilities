@@ -20,6 +20,8 @@ Download https://ubuntu-mate.org/download/ Ubuntu MATE 16.04.3 LTS
 
 Install into VMWare Fusion VM
 
+Install VMWare Tools
+
 Run
 
 ```
