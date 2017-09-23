@@ -5,7 +5,12 @@ Various utility code snippets and reference materials for LTW GCR developers.
 
 # Useful References
 
-Markdown cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  * [Sample service scripts for debian](https://github.com/wyhasany/sample-service-script)
+    * [Example service script for dionaea](https://blog.honeynet.org.my/2010/02/14/dionaea-auto-start-script-on-ubuntu/)
+  * [Open source project template for github](https://github.com/cfpb/open-source-project-template)
+  * [Malware hunting project](https://github.com/phage-nz/malware-hunting)
+  * [Securing systlogd](http://www.rsyslog.com/doc/v8-stable/tutorials/tls_cert_summary.html)
 
 # Dev Environment - Emulated
 
