@@ -11,6 +11,7 @@ Various utility code snippets and reference materials for LTW GCR developers.
   * [Open source project template for github](https://github.com/cfpb/open-source-project-template)
   * [Malware hunting project](https://github.com/phage-nz/malware-hunting)
   * [Securing systlogd](http://www.rsyslog.com/doc/v8-stable/tutorials/tls_cert_summary.html)
+  * [Install Ubuntu Mate on EC2](https://alexanderzeitler.com/articles/deploying-ubuntu-mate-desktop-as-developer-environment-on-aws-ec2/)
 
 # Dev Environment - Emulated
 
